@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Client for Music server</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email_hint">e-mail</string>
+    <string name="password">password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">sign up</string>
+    <string name="incorrect_password_or_login">Login or Password incorrect</string>
+    <string name="registration_success">Success registration</string>
+    <string name="request_error">Error</string>
+    <string name="name">name</string>
+    <string name="only_letters_and_digits">Only letters and digits</string>
+    <string name="password_enter_again">Enter password again</string>
+    <string name="accept">Accept</string>
+    <string name="only_english_letters">only english letters</string>
+    <string name="albums">Albums</string>
+    <string name="add_comment">add comment...</string>
+    <string name="send">send</string>
 </resources>
